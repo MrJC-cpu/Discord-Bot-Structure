@@ -1,4 +1,4 @@
-# Discord bot Structure
+# [ENGLISH] Discord bot Structure
 Structure of a Discord bot in JavaScript!
 
 ## What does this structure contain?
@@ -10,8 +10,7 @@ It includes:
 
 ##### We will use the [Discord.js library](https://discord.js.org) and the [fs module](https://www.npmjs.com/package/fs) for this structure.
 
-[Español]
-# Estructura de un Bot de Discord
+# [ESPAÑOL] Estructura de un Bot de Discord
 Estructura de un bot de Discord en JavaScript!
 
 ## Que contiene esta estructura?
