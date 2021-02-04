@@ -1,7 +1,7 @@
 # [ENGLISH] Discord bot Structure
 Structure of a Discord bot in JavaScript!
 
-## What does this structure contain?
+### What does this structure contain?
 It includes:
 * Subfolders.
 * Aliases (For commands).
@@ -13,7 +13,7 @@ It includes:
 # [ESPAÑOL] Estructura de un Bot de Discord
 Estructura de un bot de Discord en JavaScript!
 
-## Que contiene esta estructura?
+### Que contiene esta estructura?
 Incluye:
 * Subcarpetas.
 * Aliases (Para comandos).
